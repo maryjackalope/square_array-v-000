@@ -4,6 +4,5 @@ def square_array(array)
    num = num**2 
    squares.push(num)
   end
-
-  return squares
+  return squares #put return outside of do
 end
